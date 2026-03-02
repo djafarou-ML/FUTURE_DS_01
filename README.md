@@ -30,7 +30,7 @@ The dataset contains transactions with the following information: `InvoiceNo`, `
 
 ###  Product Analysis
 
-- Calculated the **Top 10 revenue-generating products**.  
+- Calculated the **Top 20 revenue-generating products**.  
 - Calculated the **percentage contribution** of these products to total revenue.
 
 **Insight:** A small number of products generate a large share of total revenue.  
